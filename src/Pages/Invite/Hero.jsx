@@ -98,9 +98,10 @@ const Hero = () => {
                 />
             }
 
-            {/* <AnimatePresence initial={false} exitBeforeEnter={true}>
-                {showRegisterModal && <GetInvitedModal setShowRegisterModal={setShowRegisterModal} />}
-            </AnimatePresence> */}
+            {
+                showRegisterModal &&
+                <GetInvitedModal modal={showRegisterModal} setShowRegisterModal={setShowRegisterModal} />
+            }
 
         </section >
     );
