@@ -26,10 +26,16 @@ const GetInvitedModal = ({ setShowRegisterModal, modal }) => {
                 name: data.name
             })
         })
+            .then(res => res.json())
             .then(data => {
-                reset();
-                setShowRegisterModal(false);
-                toast.success("User created successfully!")
+                if (data?.message === "User created successfully") {
+                    reset();
+                    setShowRegisterModal(false);
+                    toast.success(data?.message);
+                }
+                if (data?.error) {
+                    setError(data?.error);
+                }
             })
             .catch(err => {
                 setError(err);
