@@ -80,7 +80,7 @@ const Hero = () => {
                 <div className='lg:hidden my-10 text-sm bg-white bg-opacity-60 text-black p-4'>
                     <h2 className='text-lg text-purple-900'>#GreenProject</h2>
                     Green project, promises a carbon neutral future, for our children. We need to start. And we have.
-                    We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>.
+                    We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>. <br />
                     Here young leaders, evolved audiences meet, and discuss the way forward for our generations. On content, on green surroundings, and more on evolving trends. Green project is to bring to light the need of conscious thinking.
                 </div>
             </div>
@@ -88,7 +88,7 @@ const Hero = () => {
             <div className='hidden lg:block absolute top-1/2 right-0 w-[500px] text-sm bg-white bg-opacity-60 text-black p-4'>
                 <h2 className='text-lg text-purple-900'>#GreenProject</h2>
                 Green project, promises a carbon neutral future, for our children. We need to start. And we have.
-                We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>.
+                We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>. <br />
                 Here young leaders, evolved audiences meet, and discuss the way forward for our generations. On content, on green surroundings, and more on evolving trends. Green project is to bring to light the need of conscious thinking.
             </div>
 
