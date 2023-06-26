@@ -78,16 +78,18 @@ const Hero = () => {
                     </a>
                 </div>
                 <div className='lg:hidden my-10 text-sm bg-white bg-opacity-60 text-black p-4'>
-                    <h2 className='text-lg text-purple-900'>#MoonProject</h2>
-                    In current times, the happy hippies are on their journey to be on the moon by 2024. They are doing this to make earth a better place, cleaner environment, less pollution, no descrimination and happiness for all. Now the happy hippies of future, year 2024, from the moon, are showing us their journey from earth to moon through this show.
-                    This show inspires a series of events and conversations with leaders, changemakers and you. We the happy hippies are the GenZs, the generation of hope, for future. And this is our #MoonProject.
+                    <h2 className='text-lg text-purple-900'>#GreenProject</h2>
+                    Green project, promises a carbon neutral future, for our children. We need to start. And we have.
+                    We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>.
+                    Here young leaders, evolved audiences meet, and discuss the way forward for our generations. On content, on green surroundings, and more on evolving trends. Green project is to bring to light the need of conscious thinking.
                 </div>
             </div>
 
             <div className='hidden lg:block absolute top-1/2 right-0 w-[500px] text-sm bg-white bg-opacity-60 text-black p-4'>
-                <h2 className='text-lg text-purple-900'>#MoonProject</h2>
-                In current times, the happy hippies are on their journey to be on the moon by 2024. They are doing this to make earth a better place, cleaner environment, less pollution, no descrimination and happiness for all. Now the happy hippies of future, year 2024, from the moon, are showing us their journey from earth to moon through this show.
-                This show inspires a series of events and conversations with leaders, changemakers and you. We the happy hippies are the GenZs, the generation of hope, for future. And this is our #MoonProject.
+                <h2 className='text-lg text-purple-900'>#GreenProject</h2>
+                Green project, promises a carbon neutral future, for our children. We need to start. And we have.
+                We are planting trees for every content sale happening via <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>, mitigating its carbon footprint. To promote this in entertainment content business further, we are launching Green Project. A web talk show, around green covers, its value for us, and more. Brought to you by <a className="hover:underline" target="_blank" href="adbhut.io">Adbhut.io</a>.
+                Here young leaders, evolved audiences meet, and discuss the way forward for our generations. On content, on green surroundings, and more on evolving trends. Green project is to bring to light the need of conscious thinking.
             </div>
 
             {
