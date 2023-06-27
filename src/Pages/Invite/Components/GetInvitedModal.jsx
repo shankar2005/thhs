@@ -23,7 +23,8 @@ const GetInvitedModal = ({ setShowRegisterModal, modal }) => {
                 company: data.company,
                 url: data.url,
                 phone: data.phone,
-                name: data.name
+                name: data.name,
+		role: "Client"
             })
         })
             .then(res => res.json())
