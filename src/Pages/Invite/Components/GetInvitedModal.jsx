@@ -64,7 +64,7 @@ const GetInvitedModal = ({ setShowRegisterModal, modal }) => {
                         </div>
                         <div className="space-y-1">
                             <label htmlFor="company" className="block text-sm">Company</label>
-                            <input type="company" {...register("company", { required: true })} id="company" placeholder="Microsoft" className="w-full p-3 border rounded-md bg-black/60 outline-none border-gray-700" data-temp-mail-org="2" />
+                            <input type="text" {...register("company", { required: true })} id="company" placeholder="Microsoft" className="w-full p-3 border rounded-md bg-black/60 outline-none border-gray-700" data-temp-mail-org="2" />
                         </div>
                         <div className="space-y-1">
                             <label htmlFor="url" className="block text-sm">Company Website</label>
